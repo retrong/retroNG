@@ -8,11 +8,10 @@
 
 ### A few things about me
 - I am a software developer.
-- Basketball, music, football, and art are my happy place 
-- I enjoy bringing a static design or idea to life and learning new technologies.
+- Basketball, music, football, and art are my happy place
 - Skilled in creating responsive designs, UI Design, working with ReactJS, NextJS and Vue.
 - API Integration and Creating RESTFUL API
-- Building with C# :seedling:
+- Building :seedling:
 
 <br>
 
